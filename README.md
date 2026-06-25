@@ -1,5 +1,4 @@
 # 🚀 STTI Career – Fullstack Career Platform
-
 <img src="https://raw.githubusercontent.com/yukinime/logo/main/images/web.png" alt="STTIS Career">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
